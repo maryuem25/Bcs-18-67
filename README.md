@@ -1,5 +1,5 @@
-# Bcs-18-67
 Web SQL-Injection
+# Bcs-18-67
 
 Explanation:
 Suppose we want to hack data of a company. Firstly we will check out of which user’s data is there in that database system. To perform this task in which we will come to know about all the user’s data of the company. We will do SQL-injection coding on SEEDLAB software. It will show a dialogue box where we have to put the username and its password to access that company’s database system. And remember we don’t know that username and password either. So we will just simply write admin with special characters and click on ‘ login’ button. The User Details will be shown as you can see in the fourth picture. We could then see information of all the users that are placed on that company’s database system which we access through this procedure.
